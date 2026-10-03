@@ -1,4 +1,4 @@
-# Part Menu Pager
+# Part Menu Pager (Only PC!!!!!!!!)
 
 A small patch for **Procedural Bundle** that **splits a long part properties panel into pages**,
 with Previous / Next buttons at the top.
