@@ -7,7 +7,3 @@ with Previous / Next buttons at the top.
 
 1. Requires **[UITools](https://github.com/cucumber-sp/UITools)**.
 2. Put `Part Menu Pager.dll` at `<game>\Mods\Part Menu Pager\Part Menu Pager.dll`.
-
-## Licence
-
-**GPL-3.0** - the full text is in [LICENSE](LICENSE).
